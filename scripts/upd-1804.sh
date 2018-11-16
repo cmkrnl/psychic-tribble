@@ -44,6 +44,11 @@ sudo add-apt-repository -y ppa:alexlarsson/flatpak
 sudo apt install flatpak gnome-software-plugin-flatpak
 flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
 #!
+#! Install Signal Desktop
+curl -s https://updates.signal.org/desktop/apt/keys.asc | sudo apt-key add -
+echo "deb [arch=amd64] https://updates.signal.org/desktop/apt xenial main" | sudo tee -a /etc/apt/sources.list.d/signal-xenial.list
+sudo apt update && sudo apt install signal-desktop
+#!
 exit 0
 #!sudo lxc config set storage.zfs_pool_name lxd
 #!
