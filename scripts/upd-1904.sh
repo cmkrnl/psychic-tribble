@@ -46,6 +46,8 @@ gsettings set org.gnome.desktop.peripherals.touchpad natural-scroll false
 #
 git clone https://github.com/tliron/install-gnome-themes ~/install-gnome-themes
 ~/install-gnome-themes/install-gnome-themes
+#
+sudo dpkg-reconfigure libdvd-pkg
 # Install Flatpak
 sudo add-apt-repository -y ppa:alexlarsson/flatpak
 sudo apt install flatpak gnome-software-plugin-flatpak
