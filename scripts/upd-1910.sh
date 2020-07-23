@@ -22,7 +22,7 @@ sudo add-apt-repository -y ppa:libreoffice/ppa
 sudo add-apt-repository -y ppa:peterlevi/ppa
 sudo add-apt-repository -y ppa:canonical-kernel-team/ppa
 sudo add-apt-repository -y ppa:graphics-drivers/ppa
-sudo apt-add-repository -y ppa:numix/ppa
+sudo apt-add-repository -y ppasftpclient:numix/ppa
 sudo add-apt-repository -y ppa:papirus/papirus
 #
 gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize'

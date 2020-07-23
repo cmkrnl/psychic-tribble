@@ -8,7 +8,8 @@ sudo snap install mailspring
 sudo snap install signal-desktop
 sudo snap install mattermost-desktop --classic
 sudo snap install code --classic
-sudo snap install gitkraken
+sudo snap install authy --beta
+sudo snap install gitkraken --classic
 sudo snap install notepad-plus-plus
 sudo snap install kubectl --classic
 sudo snap install powershell --classic
@@ -23,6 +24,7 @@ sudo snap install htop
 sudo snap install nmap
 sudo snap install vlc
 sudo snap install sftpclient
+sudo snap install p3x-onenote
 #
 # Install repos - common
 sudo add-apt-repository -y universe
