@@ -8,8 +8,7 @@ sudo snap install mailspring
 sudo snap install signal-desktop
 sudo snap install mattermost-desktop --classic
 sudo snap install code --classic
-sudo snap install authy --beta
-sudo snap install gitkraken --classic
+sudo snap install gitkraken
 sudo snap install notepad-plus-plus
 sudo snap install kubectl --classic
 sudo snap install powershell --classic
@@ -24,7 +23,8 @@ sudo snap install htop
 sudo snap install nmap
 sudo snap install vlc
 sudo snap install sftpclient
-sudo snap install p3x-onenote
+sudo snap install unofficial-webapp-office
+
 #
 # Install repos - common
 sudo add-apt-repository -y universe
@@ -38,7 +38,7 @@ gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize'
 sudo ubuntu-drivers autoinstall
 sudo apt-get update
 #
-sudo apt-get install libpam-pkcs11 ubuntu-restricted-extras conky libmotif-common gedit-plugins curl enscript gnuplot grads hp2xx html2ps synaptic mesa-utils gnuplot-doc weblint-perl xhtml2ps fping tcl-tclreadline perl-tk xfig xfig-doc spell bleachbit menu-l10n ttf-xfree86-nonfree python-dateutil equivs binfmt-support visualvm software-properties-common python-setuptools python-usb python-dateutil python-requests diodon tlp tlp-rdw smartmontools ethtool libappindicator1 davfs2 sshfs exfat-utils exfat-fuse libavcodec-extra libdvd-pkg nautilus-admin zfsutils-linux fonts-ipafont-gothic fonts-ipafont-mincho fonts-wqy-microhei fonts-wqy-zenhei fonts-indic bundler w3-recs opensp libxml2-utils gsmartcontrol smart-notifier smbclient dwww deborphan apt-xapian-index tasksel tp-smapi-dkms acpi-call-dkms gsfonts-x11 samba-common-bin nfs-kernel-server zfs-initramfs augeas-doc bzr-doc bzrtools augeas-tools radvd qemu-user-static lxctl graphviz librsvg2-bin uuid git git-doc git-el git-email git-gui gitk gitweb git-cvs git-mediawiki git-svn network-manager-openconnect-gnome lib32z1 byobu screenfetch tilix font-manager arc-theme putty compizconfig-settings-manager p7zip-full ppa-purge variety preload python3-cherrypy3 python3-tornado xserver-xorg-input-libinput gufw handbrake transmission codeblocks ninja-build pulseaudio-equalizer pavucontrol network-manager-openvpn network-manager-openvpn-gnome easy-rsa resolvconf vim tree gnome-tweaks network-manager-openconnect net-tools gnome-shell-extensions linux-tools-common linux-tools-generic chrome-gnome-shell
+sudo apt-get install libpam-pkcs11 ubuntu-restricted-extras conky libmotif-common gedit-plugins curl enscript gnuplot grads hp2xx html2ps synaptic mesa-utils gnuplot-doc weblint-perl xhtml2ps fping tcl-tclreadline perl-tk xfig xfig-doc spell bleachbit menu-l10n ttf-xfree86-nonfree python-dateutil equivs binfmt-support visualvm software-properties-common python-setuptools python-usb python-dateutil python-requests diodon tlp tlp-rdw smartmontools ethtool libappindicator1 davfs2 sshfs exfat-utils exfat-fuse libavcodec-extra libdvd-pkg nautilus-admin zfsutils-linux fonts-ipafont-gothic fonts-ipafont-mincho fonts-wqy-microhei fonts-wqy-zenhei fonts-indic bundler w3-recs opensp libxml2-utils gsmartcontrol smart-notifier smbclient dwww deborphan apt-xapian-index tasksel tp-smapi-dkms acpi-call-dkms gsfonts-x11 samba-common-bin nfs-kernel-server zfs-initramfs augeas-doc bzr-doc bzrtools augeas-tools radvd qemu-user-static lxctl graphviz librsvg2-bin uuid git git-doc git-el git-email git-gui gitk gitweb git-cvs git-mediawiki git-svn network-manager-openconnect-gnome lib32z1 byobu screenfetch tilix font-manager arc-theme putty compizconfig-settings-manager p7zip-full ppa-purge variety preload python3-cherrypy3 python3-tornado xserver-xorg-input-libinput gufw handbrake transmission codeblocks ninja-build pulseaudio-equalizer pavucontrol network-manager-openvpn network-manager-openvpn-gnome easy-rsa resolvconf vim tree gnome-tweaks network-manager-openconnect net-tools gnome-shell-extensions linux-tools-common linux-tools-generic chrome-gnome-shell sassc inkscape optipng libglib2.0-dev-bin git gtk2-engines-murrine gtk2-engines-pixbuf pop-theme
 #
 sudo apt-get dist-upgrade -y
 #
