@@ -15,6 +15,6 @@ echo 'export PATH="/usr/local/sbin:$PATH"' >> ~/.zshrc
 brew install wget gzip coreutils htop neofetch findutils moreutils openjdk
 
 # install casks
-brew install --cask 4k-video-downloader atom google-chrome microsoft-teams 4k-youtube-to-m3 firefox handbrake openconnect-gui appcleaner google-backup-and-sync mattermost vlc iterm2 skype-for-business yammer transmission signal dbeaver-community adoptopenjdk tuxera-ntfs netnewswire
+brew install --cask 4k-video-downloader atom google-chrome microsoft-teams 4k-youtube-to-m3 firefox handbrake openconnect-gui appcleaner google-backup-and-sync mattermost vlc iterm2 skype-for-business yammer transmission signal dbeaver-community adoptopenjdk tuxera-ntfs netnewswire smartmontools
 #!
 exit 0
