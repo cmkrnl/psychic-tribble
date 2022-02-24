@@ -15,7 +15,12 @@ echo 'export PATH="/usr/local/sbin:$PATH"' >> ~/.zshrc
 brew install wget gzip coreutils htop neofetch findutils moreutils openjdk smartmontools adoptopenjdk
 
 # install casks
-brew install --cask 4k-video-downloader atom audacity bartender google-chrome microsoft-teams microsoft-auto-update microsoft-office parallels 4k-youtube-to-m3 firefox openconnect-gui appcleaner mattermost vlc iterm2 transmission signal dbeaver-community tuxera-ntfs netnewswire mailtrackerblocker malwarebytes blockblock do-not-disturb oversight knockknock lulu netiquette zoom royal-tsx
+brew install --cask logitech-options google-chrome microsoft-office iterm2 mailtrackerblocker malwarebytes
+brew install --cask 4k-video-downloader 4k-youtube-to-mp3	blockblock lulu transmission
+brew install --cask adoptopenjdk discord-canary	mattermost oversight tuxera-ntfs
+brew install --cask appcleaner do-not-disturb	microsoft-auto-update	parallels	vlc
+brew install --cask atom firefox microsoft-teams reikey zoom
+brew install --cask audacity knockknock	netiquette royal-tsx
 
 #!
 exit 0
