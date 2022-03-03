@@ -19,7 +19,7 @@ brew install --cask logitech-options google-chrome microsoft-office iterm2 mailt
 brew install --cask 4k-video-downloader 4k-youtube-to-mp3	blockblock lulu transmission
 brew install --cask adoptopenjdk discord-canary	mattermost oversight tuxera-ntfs
 brew install --cask appcleaner do-not-disturb	microsoft-auto-update	parallels	vlc
-brew install --cask atom firefox microsoft-teams reikey zoom
+brew install --cask atom firefox microsoft-teams reikey zoom spideroakone
 brew install --cask audacity knockknock	netiquette royal-tsx
 
 #!
