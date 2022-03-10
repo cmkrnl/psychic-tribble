@@ -12,7 +12,7 @@ echo 'export PATH="/usr/local/sbin:$PATH"' >> ~/.zshrc
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
 # install packages
-brew install wget gzip coreutils htop neofetch findutils moreutils openjdk smartmontools adoptopenjdk
+brew install wget gzip coreutils htop neofetch findutils moreutils openjdk smartmontools
 
 # install casks
 brew install --cask logitech-options google-chrome microsoft-office iterm2 mailtrackerblocker malwarebytes
