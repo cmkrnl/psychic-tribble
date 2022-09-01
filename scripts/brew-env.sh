@@ -20,7 +20,7 @@ brew install --cask 4k-video-downloader 4k-youtube-to-mp3	blockblock lulu transm
 brew install --cask adoptopenjdk discord mattermost oversight tuxera-ntfs malwarebytes
 brew install --cask appcleaner do-not-disturb	microsoft-auto-update	parallels	vlc
 brew install --cask visual-studio-code firefox microsoft-teams reikey zoom spideroakone
-brew install --cask audacity knockknock	netiquette royal-tsx camo-studio
+brew install --cask audacity knockknock	netiquette royal-tsx camo-studio ransomwhere
 
 #!
 exit 0
