@@ -16,7 +16,7 @@ brew install wget gzip coreutils htop neofetch findutils moreutils openjdk smart
 
 # install casks
 brew install --cask logitech-options google-chrome microsoft-office iterm2 mailtrackerblocker
-brew install --cask 4k-video-downloader 4k-youtube-to-mp3	blockblock lulu transmission
+brew install --cask 4k-video-downloader 4k-youtube-to-mp3 mailsrping blockblock lulu transmission
 brew install --cask adoptopenjdk discord mattermost oversight tuxera-ntfs malwarebytes
 brew install --cask appcleaner do-not-disturb	microsoft-auto-update	parallels	vlc
 brew install --cask visual-studio-code firefox microsoft-teams reikey zoom spideroakone
