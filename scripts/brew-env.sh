@@ -11,7 +11,7 @@ echo 'export PATH="/usr/local/sbin:$PATH"' >> ~/.zshrc
 # Install Homebrew
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
-# install packages
+# install formulae
 brew install wget gzip coreutils htop neofetch findutils moreutils openjdk smartmontools
 
 # install casks
