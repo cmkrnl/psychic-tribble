@@ -19,7 +19,7 @@ brew install --cask logi-options-plus google-chrome microsoft-office iterm2 clic
 brew install --cask 4k-video-downloader 4k-youtube-to-mp3 mailsrping blockblock lulu
 brew install --cask adoptopenjdk discord oversight tuxera-ntfs malwarebytes transmission
 brew install --cask appcleaner do-not-disturb	microsoft-auto-update	parallels	vlc
-brew install --cask visual-studio-code firefox microsoft-teams reikey zoom vincelwt-chatgpt
+brew install --cask visual-studio-code firefox microsoft-teams reikey zoom opensc
 brew install --cask audacity knockknock	netiquette royal-tsx camo-studio ransomwhere
 
 #!
