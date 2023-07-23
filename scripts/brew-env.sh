@@ -16,10 +16,10 @@ brew install wget gzip coreutils htop neofetch findutils moreutils openjdk smart
 
 # install casks
 brew install --cask logi-options-plus google-chrome microsoft-office iterm2 clickshare
-brew install --cask 4k-video-downloader 4k-youtube-to-mp3 mailsrping blockblock lulu
+brew install --cask 4k-video-downloader 4k-youtube-to-mp3 mailspring blockblock lulu
 brew install --cask adoptopenjdk discord oversight tuxera-ntfs malwarebytes transmission
 brew install --cask appcleaner do-not-disturb	microsoft-auto-update	parallels	vlc
-brew install --cask visual-studio-code firefox microsoft-teams reikey zoom opensc
+brew install --cask visual-studio-code firefox microsoft-teams reikey zoom opensc displaylink
 brew install --cask audacity knockknock	netiquette royal-tsx camo-studio ransomwhere
 
 #!
