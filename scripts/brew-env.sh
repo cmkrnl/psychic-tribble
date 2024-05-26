@@ -15,7 +15,7 @@ echo 'export PATH="/usr/local/sbin:$PATH"' >> ~/.zshrc
 brew install wget gzip coreutils htop neofetch findutils moreutils openjdk smartmontools
 
 # install casks
-brew install --cask logi-options-plus google-chrome microsoft-office iterm2 clickshare
+brew install --cask mac-mouse-fix google-chrome microsoft-office iterm2 clickshare
 brew install --cask 4k-video-downloaderplus 4k-youtube-to-mp3 mailspring blockblock lulu
 brew install --cask adoptopenjdk discord oversight tuxera-ntfs malwarebytes transmission
 brew install --cask appcleaner do-not-disturb microsoft-auto-update	parallels vlc openconnect-gui
