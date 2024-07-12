@@ -20,7 +20,7 @@ brew install --cask 4k-video-downloaderplus 4k-youtube-to-mp3 mailspring blockbl
 brew install --cask adoptopenjdk discord oversight tuxera-ntfs malwarebytes transmission
 brew install --cask appcleaner do-not-disturb microsoft-auto-update	parallels vlc openconnect-gui
 brew install --cask visual-studio-code firefox microsoft-teams reikey zoom opensc displaylink
-brew install --cask audacity knockknock	netiquette royal-tsx ransomwhere orion
+brew install --cask audacity knockknock	netiquette royal-tsx ransomwhere
 
 #!
 exit 0
