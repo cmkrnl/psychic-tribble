@@ -12,7 +12,7 @@ echo 'export PATH="/usr/local/sbin:$PATH"' >> ~/.zshrc
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
 # install formulae
-brew install wget gzip coreutils htop neofetch findutils moreutils openjdk smartmontools
+brew install wget gzip coreutils htop neofetch findutils moreutils openjdk smartmontools autoconf autoconf-archive automake ccache cmake nasm ninja pkg-config
 
 # install casks
 brew install --cask mac-mouse-fix google-chrome microsoft-office iterm2
