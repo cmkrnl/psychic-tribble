@@ -19,7 +19,7 @@ brew install --cask mac-mouse-fix google-chrome microsoft-office iterm2
 brew install --cask 4k-video-downloaderplus 4k-youtube-to-mp3 mailspring blockblock
 brew install --cask discord oversight malwarebytes transmission lulu temurin eloston-chromium
 brew install --cask appcleaner do-not-disturb microsoft-auto-update mullvad-vpn
-brew install --cask visual-studio-code firefox microsoft-teams reikey zoom opensc displaylink
+brew install --cask visual-studio-code firefox microsoft-teams reikey zoom opensc-app displaylink
 brew install --cask audacity knockknock	netiquette royal-tsx ransomwhere balenaetcher
 
 #!
