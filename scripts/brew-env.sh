@@ -15,12 +15,12 @@ echo 'export PATH="/usr/local/sbin:$PATH"' >> ~/.zshrc
 brew install wget gzip coreutils htop neofetch findutils moreutils openjdk smartmontools autoconf autoconf-archive automake ccache cmake nasm ninja pkg-config
 
 # install casks
-brew install --cask mac-mouse-fix google-chrome microsoft-office iterm2
+brew install --cask mac-mouse-fix google-chrome iterm2
 brew install --cask 4k-video-downloaderplus 4k-youtube-to-mp3 mailspring blockblock
 brew install --cask discord oversight transmission lulu temurin ungoogled-chromium
-brew install --cask appcleaner do-not-disturb microsoft-auto-update mullvad-vpn
-brew install --cask visual-studio-code firefox microsoft-teams reikey zoom opensc-app displaylink
-brew install --cask audacity knockknock	netiquette royal-tsx ransomwhere balenaetcher
+brew install --cask appcleaner do-not-disturb mullvad-vpn
+brew install --cask firefox microsoft-teams reikey
+brew install --cask audacity knockknock	netiquette ransomwhere balenaetcher
 
 #!
 exit 0
