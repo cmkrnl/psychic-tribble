@@ -17,8 +17,8 @@ brew install wget gzip coreutils htop neofetch findutils moreutils openjdk smart
 # install casks
 brew install --cask mac-mouse-fix google-chrome iterm2
 brew install --cask 4k-video-downloaderplus 4k-youtube-to-mp3 mailspring blockblock
-brew install --cask element oversight transmission lulu temurin ungoogled-chromium
-brew install --cask appcleaner do-not-disturb mullvad-vpn balenaetcher
+brew install --cask discord oversight transmission lulu temurin ungoogled-chromium
+brew install --cask appcleaner taskexplorer mullvad-vpn balenaetcher xdeck
 brew install --cask firefox reikey audacity knockknock netiquette ransomwhere
 
 #!
